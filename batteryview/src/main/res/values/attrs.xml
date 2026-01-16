@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BatteryView">
+
+        <!-- Battery level -->
+        <attr name="batteryLevel" format="integer" />
+
+        <!-- Colors -->
+        <attr name="batteryBackgroundColor" format="color" />
+        <attr name="batteryFillColor" format="color" />
+        <attr name="batteryLowColor" format="color" />
+
+    </declare-styleable>
+</resources>
