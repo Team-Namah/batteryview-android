@@ -87,8 +87,26 @@ batteryView.setBatteryLevel(85)
 
 ## 🖼️ Output Preview
 
-![Normal Battery](assets/battery_normal.png)
-![Low Battery](assets/battery_low.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Team-Namah/batteryview-android/main/assets/battery_normal.png"
+       width="180"
+       alt="Normal Battery" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Team-Namah/batteryview-android/main/assets/battery_low.png"
+       width="180"
+       alt="Low Battery" />
+</p>
+
+<p align="center">
+  <strong>Normal Battery</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Low Battery</strong>
+</p>
+
+<p align="center">
+  Text color automatically adapts based on fill overlap for maximum readability.
+</p>
+
 
 Text color automatically adapts based on fill overlap for maximum readability.
 
