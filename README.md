@@ -103,9 +103,6 @@ batteryView.setBatteryLevel(85)
   <strong>Low Battery</strong>
 </p>
 
-<p align="center">
-  Text color automatically adapts based on fill overlap for maximum readability.
-</p>
 
 
 Text color automatically adapts based on fill overlap for maximum readability.
